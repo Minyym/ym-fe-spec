@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ym",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "  JavaScript TypeScript Node 规范",
   "keywords": [
@@ -19,8 +19,7 @@
   "repository": {
     "type": "git"
   },
-  "bugs": {
-  },
+  "bugs": {},
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.3",
