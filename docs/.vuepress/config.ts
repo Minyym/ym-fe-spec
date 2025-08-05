@@ -110,13 +110,13 @@ export default defineConfig4CustomTheme({
     footer: {
       createYear: 2023,
       copyrightInfo:
-        'ym studio | <a href="https://github.com/ym-studio-fe/fe-spec" target="_blank">github</a>',
+        'ym studio | <a href="https://github.com/Minyym/ym-fe-spec" target="_blank">github</a>',
     },
 
     extendFrontmatter: {
       author: {
         name: 'ym',
-        link: 'https://github.com/ym-studio-fe/fe-sepc',
+        link: 'https://github.com/Minyym/ym-fe-spec',
       },
     },
   },
