@@ -1,5 +1,5 @@
 ---
-title: stylelint-config-ym
+title: stylelint-config-xjy
 categories:
   - 工程规范
 tags:
@@ -9,7 +9,7 @@ author:
   link: https://github.com/ym-studio-fe/fe-spec
 ---
 
-# stylelint-config-ym
+# stylelint-config-xjy
 
 :::tip
   CSS 规范
@@ -22,7 +22,7 @@ author:
 需要先行安装 [stylelint](https://www.npmjs.com/package/stylelint) 和 [stylelint-scss](https://www.npmjs.com/package/stylelint-scss)：
 
 ```bash
-npm install stylelint-config-ym stylelint stylelint-scss --save-dev
+npm install stylelint-config-xjy stylelint stylelint-scss --save-dev
 ```
 
 ## 使用
@@ -31,6 +31,6 @@ npm install stylelint-config-ym stylelint stylelint-scss --save-dev
 
 ```json
 {
-  "extends": "stylelint-config-ym"
+  "extends": "stylelint-config-xjy"
 }
 ```

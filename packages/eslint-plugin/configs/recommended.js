@@ -1,7 +1,7 @@
 module.exports = {
-  plugins: ['eslint-plugin-ym'],
+  plugins: ['eslint-plugin-xjy'],
   rules: {
-    'eslint-plugin-ym/no-http-url': 'warn',
-    'eslint-plugin-ym/no-secret-info': 'error',
+    'eslint-plugin-xjy/no-http-url': 'warn',
+    'eslint-plugin-xjy/no-secret-info': 'error',
   },
 };

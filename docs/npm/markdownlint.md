@@ -1,5 +1,5 @@
 ---
-title: markdownlint-config-ym
+title: markdownlint-config-xjy
 categories:
   - 工程规范
 tags:
@@ -9,7 +9,7 @@ author:
   link: https://github.com/ym-studio-fe/fe-spec
 ---
 
-# markdownlint-config-ym
+# markdownlint-config-xjy
 
 :::tip
   文档 规范
@@ -26,7 +26,7 @@ npm install -g markdownlint-cli
 再安装 [markdownlint](https://www.npmjs.com/package/markdownlint)：
 
 ```bash
-npm install markdownlint-config-ym markdownlint --save-dev
+npm install markdownlint-config-xjy markdownlint --save-dev
 ```
 
 ## 使用
@@ -35,6 +35,6 @@ npm install markdownlint-config-ym markdownlint --save-dev
 
 ```json
 {
-  "extends": "markdownlint-config-ym"
+  "extends": "markdownlint-config-xjy"
 }
 ```

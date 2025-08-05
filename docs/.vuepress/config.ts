@@ -33,16 +33,16 @@ export default defineConfig4CustomTheme({
       {
         text: 'NPM包',
         items: [
-          { text: 'eslint-config-ym', link: '/npm/eslint.md' },
-          { text: 'stylelint-config-ym', link: '/npm/stylelint.md' },
-          { text: 'commitlint-config-ym', link: '/npm/commitlint.md' },
-          { text: 'markdownlint-config-ym', link: '/npm/markdownlint.md' },
-          { text: 'eslint-plugin-ym', link: '/npm/eslint-plugin.md' },
+          { text: 'eslint-config-xjy', link: '/npm/eslint.md' },
+          { text: 'stylelint-config-xjy', link: '/npm/stylelint.md' },
+          { text: 'commitlint-config-xjy', link: '/npm/commitlint.md' },
+          { text: 'markdownlint-config-xjy', link: '/npm/markdownlint.md' },
+          { text: 'eslint-plugin-xjy', link: '/npm/eslint-plugin.md' },
         ],
       },
       {
         text: '脚手架',
-        items: [{ text: 'ym-fe-lint', link: '/cli/ym-fe-lint.md' }],
+        items: [{ text: 'xjy-fe-lint', link: '/cli/xjy-fe-lint.md' }],
       },
     ],
     sidebar: [
@@ -91,16 +91,16 @@ export default defineConfig4CustomTheme({
       {
         title: 'NPM包',
         children: [
-          { title: 'eslint-config-ym', path: '/npm/eslint.md' },
-          { title: 'stylelint-config-ym', path: '/npm/stylelint.md' },
-          { title: 'commitlint-config-ym', path: '/npm/commitlint.md' },
-          { title: 'markdownlint-config-ym', path: '/npm/markdownlint.md' },
-          { title: 'eslint-plugin-ym', path: '/npm/eslint-plugin.md' },
+          { title: 'eslint-config-xjy', path: '/npm/eslint.md' },
+          { title: 'stylelint-config-xjy', path: '/npm/stylelint.md' },
+          { title: 'commitlint-config-xjy', path: '/npm/commitlint.md' },
+          { title: 'markdownlint-config-xjy', path: '/npm/markdownlint.md' },
+          { title: 'eslint-plugin-xjy', path: '/npm/eslint-plugin.md' },
         ],
       },
       {
         title: '脚手架',
-        children: [{ title: 'ym-fe-lint', path: '/cli/ym-fe-lint.md' }],
+        children: [{ title: 'xjy-fe-lint', path: '/cli/xjy-fe-lint.md' }],
       },
     ],
     logo: '/img/logo.png',

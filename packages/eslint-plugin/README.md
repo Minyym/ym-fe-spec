@@ -1,11 +1,11 @@
-# eslint-plugin-ym
+# eslint-plugin-xjy
 
 ## 安装
 
 除了本包，你需要同时安装 [ESlint](https://eslint.org/)
 
 ```shell
-$ npm install eslint-plugin-ym eslint --save-dev
+$ npm install eslint-plugin-xjy eslint --save-dev
 ```
 
 ## 使用
@@ -15,9 +15,9 @@ $ npm install eslint-plugin-ym eslint --save-dev
 ```js
 // .eslintrc.js
 module.exports = {
-  plugin: ['eslint-config-ym'],
+  plugin: ['eslint-config-xjy'],
   rules: {
-    'eslint-plugin-ym/no-secret-info': 'error',
+    'eslint-plugin-xjy/no-secret-info': 'error',
   },
 };
 ```
@@ -27,7 +27,7 @@ module.exports = {
 ```js
 // .eslintrc.js
 module.exports = {
-  extends: 'plugin:eslint-plugin-ym/recommended',
+  extends: 'plugin:eslint-plugin-xjy/recommended',
 };
 ```
 

@@ -1,4 +1,4 @@
-# markdownlint-config-ym
+# markdownlint-config-xjy
 
 >   文档 规范
 
@@ -9,7 +9,7 @@
 需要先行安装 [markdownlint](https://www.npmjs.com/package/markdownlint)：
 
 ```bash
-npm install markdownlint-config-ym markdownlint --save-dev
+npm install markdownlint-config-xjy markdownlint --save-dev
 ```
 
 ## 使用
@@ -18,6 +18,6 @@ npm install markdownlint-config-ym markdownlint --save-dev
 
 ```json
 {
-  "extends": "markdownlint-config-ym"
+  "extends": "markdownlint-config-xjy"
 }
 ```

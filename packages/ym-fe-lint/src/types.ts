@@ -45,7 +45,7 @@ export interface ScanOptions {
   fix?: boolean;
   // 生成报告文件
   outputReport?: boolean;
-  // scan 时指定 ym-fe-lint config，优先级高于 ym-fe-lint.config.js
+  // scan 时指定 xjy-fe-lint config，优先级高于 xjy-fe-lint.config.js
   config?: Config;
 }
 
@@ -74,7 +74,7 @@ export interface ScanReport {
 
 export interface InitOptions {
   cwd: string;
-  // 是否检查并升级 ym-fe-lint 的版本
+  // 是否检查并升级 xjy-fe-lint 的版本
   checkVersionUpdate: boolean;
   // 是否需要自动重写 lint 配置
   rewriteConfig?: boolean;
