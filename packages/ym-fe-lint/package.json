@@ -1,6 +1,6 @@
 {
   "name": "ym-fe-lint",
-  "version": "1.0.1",
+  "version": "1.0.2-alpha.0",
   "description": "前端编码规范工程化标准脚手架",
   "bin": "./lib/cli.js",
   "main": "./lib/index.js",
