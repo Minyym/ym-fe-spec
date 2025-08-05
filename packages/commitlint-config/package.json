@@ -1,0 +1,19 @@
+{
+  "name": "commitlint-config-ym",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Git规范",
+  "keywords": [
+    "commit",
+    "lint"
+  ],
+  "author": "ym",
+  "license": "ISC",
+  "repository": {
+    "type": "git"
+  },
+
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}

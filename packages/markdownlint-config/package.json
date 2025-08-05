@@ -1,0 +1,18 @@
+{
+  "name": "markdownlint-config-ym",
+  "version": "1.0.0",
+  "main": "index.json",
+  "description": "  文档规范",
+  "keywords": [
+    "markdown",
+    "lint"
+  ],
+  "author": "ym",
+  "license": "ISC",
+  "repository": {
+    "type": "git"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}

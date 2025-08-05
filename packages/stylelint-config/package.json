@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config-ym",
+  "version": "1.0.0",
+  "description": "  CSS规范",
+  "main": "index.js",
+  "keywords": [
+    "style",
+    "lint"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ym",
+  "license": "ISC",
+  "peerDependencies": {
+    "stylelint": ">=8.3.0",
+    "stylelint-scss": ">=2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "stylelint": "^14.3.0",
+    "stylelint-scss": "^4.1.0"
+  },
+  "repository": {
+    "type": "git"
+  }
+}
