@@ -4,7 +4,7 @@ export default defineConfig4CustomTheme({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: ' ',
+      title: 'xjy',
       description: '前端编码规范工程化',
     },
   },
